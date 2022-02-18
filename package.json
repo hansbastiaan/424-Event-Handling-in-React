@@ -1,7 +1,7 @@
 {
-  "name": "event-handling-in-react",
+  "name": "424-eventhandling",
   "version": "1.0.0",
-  "description": "",
+  "description": "EventHandling onMouseOver en onMOuseOut",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
